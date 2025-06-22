@@ -44,6 +44,10 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=000)
 
 ---
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nofrendy&layout=compact&langs_count=8&theme=gruvbox)
+
+---
 
 ### 📊 GitHub Stats
 <p align="center">
